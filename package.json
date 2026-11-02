@@ -22,6 +22,7 @@
   },
   "types": "./dist/index.d.mts",
   "files": [
+    "skills",
     "dist"
   ],
   "scripts": {
