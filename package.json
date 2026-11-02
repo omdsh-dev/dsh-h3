@@ -22,8 +22,8 @@
   },
   "types": "./dist/index.d.mts",
   "files": [
-    "skills",
-    "dist"
+    "dist",
+    "skills"
   ],
   "scripts": {
     "build": "tsdown",
@@ -83,6 +83,7 @@
     "@types/node": "catalog:types",
     "@vitest/coverage-v8": "catalog:testing",
     "bumpp": "catalog:cli",
+    "dsh-h3": "workspace:*",
     "eslint": "catalog:cli",
     "eslint-plugin-slop": "catalog:cli",
     "eslint-plugin-sonarjs": "catalog:cli",

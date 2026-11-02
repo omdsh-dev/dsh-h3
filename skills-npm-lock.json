@@ -1,6 +1,12 @@
 {
   "version": 3,
-  "skills": {},
+  "skills": {
+    "dsh-h3": {
+      "package": "dsh-h3",
+      "version": "0.2.1",
+      "skillPath": "skills/dsh-h3/SKILL.md"
+    }
+  },
   "remote": {
     "agent-browser": {
       "package": "@antfu/skills",
